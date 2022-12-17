@@ -12,5 +12,8 @@ lazy code to make pc channel names
 6) add pathway to .csv file of student list
 7) EX: PATHWAY="C:/user/downloads/my-csv-list-.csv"
 
-7) I made this in like 10 min so there are bugs but I want to fix it :P
+![](/gifs/student-pc-generator.gif)
+
+8) I made this in like 10 min so there are bugs but I want to fix it :P
+
 
